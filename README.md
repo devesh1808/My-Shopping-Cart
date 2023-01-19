@@ -1,31 +1,16 @@
-### To intsall all rhe required dependecies
+### My Shopping Cart
 
-```
-npm install
-```
+## Home Page
 
-## Start the project
+![Screenshot (683)](https://user-images.githubusercontent.com/101920807/213425278-7b67f68d-7c7a-4527-95ec-d3c3236f29b7.png)
 
-```
-npm start
-```
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Information about a particular mobile phone and 2 options including add to cart and back to products
 
-### Test the application
+![Screenshot (685)](https://user-images.githubusercontent.com/101920807/213425822-035c055e-35a3-4a62-8536-3a5a6f119885.png)
 
-```
-npm test
-```
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## MY Cart Page 
 
-### Build application
+![Screenshot (687)](https://user-images.githubusercontent.com/101920807/213426507-8e118a1d-6ba0-436a-bd04-9408dcbf7c61.png)
 
-```
-npm run build
-```
-
-Builds the app for production to the `build` folder.<br>
